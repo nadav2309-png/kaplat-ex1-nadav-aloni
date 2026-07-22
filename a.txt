@@ -1,1 +1,3 @@
 This is file a.
+This line was added on branch B1.
+This line was added on branch B3.
